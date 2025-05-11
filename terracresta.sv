@@ -20,7 +20,7 @@
 // Jun 2022 -- added screen flip from https://github.com/gyurco/Mist_FPGA
 //============================================================================
 
-`default_nettype none
+//`default_nettype none
 
 module emu
 (
