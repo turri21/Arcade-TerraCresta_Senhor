@@ -1,4 +1,8 @@
+-=(TerraCresta_Senhor notes)=-
 
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 # Nichibutsu M68000 (Terra Cresta) FPGA Implementation
 
 FPGA compatible core of Nichibutsu M68000 (Terra Cresta Based) arcade hardware for [**MiSTerFPGA**](https://github.com/MiSTer-devel/Main_MiSTer/wiki) written by [**Darren Olafson**](https://twitter.com/Darren__O).  Terra Cresta YM2203 OPN Type PCB donated by [**@atrac17**](https://twitter.com/_atrac17) / [**@djhardrich**](https://twitter.com/djhardrich). 
